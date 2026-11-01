@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mansardauna.github.io/justice-gegele/sitemap.xml
